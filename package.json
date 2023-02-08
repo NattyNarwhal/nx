@@ -73,7 +73,7 @@
     "@nrwl/tao": "13.8.0",
     "@nrwl/web": "13.8.0",
     "@nrwl/workspace": "13.8.0",
-    "@parcel/watcher": "2.0.4",
+    "@parcel/watcher": "git+https://github.com/NattyNarwhal/watcher.git#aix",
     "@phenomnomnominal/tsquery": "4.1.1",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.1",
     "@popperjs/core": "^2.9.2",
